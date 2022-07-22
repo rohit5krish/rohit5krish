@@ -13,7 +13,7 @@ A self taught Flutter Developer who is passionate in developing UI rich mobile a
 * 🤝  I'm open to collaborating on Mobile Applications development
 
 <a href="https://www.github.com/rohit5krish" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rohit5krish?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/rohit5krish?logo=github&style=for-the-badge&color=6366f1&labelColor=181824" /></a>
 
 ### Skills
 
@@ -37,14 +37,14 @@ src="https://img.shields.io/github/followers/rohit5krish?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/rohit5krish"><img src="https://github-readme-stats.vercel.app/api?username=rohit5krish&show_icons=true&hide=prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rohit5krish's GitHub stats" /></a>
+<a href="http://www.github.com/rohit5krish"><img src="https://github-readme-stats.vercel.app/api?username=rohit5krish&show_icons=true&hide=prs,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="rohit5krish's GitHub stats" /></a>
 
-<a href="http://www.github.com/rohit5krish"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit5krish&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/rohit5krish"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit5krish&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/rohit5krish"><img src="https://activity-graph.herokuapp.com/graph?username=rohit5krish&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/rohit5krish"><img src="https://activity-graph.herokuapp.com/graph?username=rohit5krish&bg_color=181824&color=ffffff&line=6366f1&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/rohit5krish" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit5krish&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/rohit5krish" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit5krish&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/rohit5krish/Student_Manager" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit5krish&repo=Student_Manager&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rohit5krish/Music_Player" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit5krish&repo=Music_Player&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/rohit5krish/Student_Manager" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit5krish&repo=Student_Manager&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/rohit5krish/Music_Player" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit5krish&repo=Music_Player&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
