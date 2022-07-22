@@ -41,8 +41,6 @@ src="https://img.shields.io/github/followers/rohit5krish?logo=github&style=for-t
 
 <a href="http://www.github.com/rohit5krish"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit5krish&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/rohit5krish"><img src="https://activity-graph.herokuapp.com/graph?username=rohit5krish&bg_color=181824&color=ffffff&line=6366f1&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/rohit5krish" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit5krish&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
